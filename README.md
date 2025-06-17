@@ -133,64 +133,43 @@
     <div class="poem">
       <p>"YES, I AM CHANGED
 
-From murmuring amma, amma,
+      <p>"YES, I AM CHANGED<br>
 
-to shouting at amma;
-
-From holding hands of papa,
-
-to walking alone on the streets:
-
-From crying for chocolates,
-
-to sobbing for a career,
-
-YES, I AM CHANGED!
-
-From walking to school with parents,
-
-to traveling to college with friends,
-
-From intentionally showing sadness,
-
-to securely hiding feelings,
-
-From planning a family picnic,
-
-to arranging an outing with friends,
-
-YES, I AM CHANGED!
-
-From chasing playgrounds,
-
-to striving for a good job,
-
-From making friends,
-
-to weaving unbreakable ties,
-
-From struggling with homework,
-
-to fighting to prove my worth,
-
-YES, I AM CHANGED!
-
-From dreaming big,
-
-to chasing reality,
-
-From seeking comfort,
-
-to embracing uncertainty.
-
-Through every challenge, every leap, every fall,
-
-We’ve grown, we’ve learned, we’ve given our all.
-
-And now, looking back, it’s crystal clear:
-
-WE ALL HAVE CHANGED, near or far.
-
+From murmuring amma, amma,<br>
+to shouting at amma;<br>
+From holding hands of papa,<br>
+to walking alone on the streets:<br>
+<br>
+From crying for chocolates,<br>
+to sobbing for a career,<br>
+YES, I AM CHANGED!<br>
+<br>
+From walking to school with parents,<br>
+to traveling to college with friends,<br>
+From intentionally showing sadness,<br>
+to securely hiding feelings,<br>
+From planning a family picnic,<br>
+to arranging an outing with friends,<br>
+YES, I AM CHANGED!<br>
+<br>
+From chasing playgrounds,<br>
+to striving for a good job,<br>
+From making friends,<br>
+to weaving unbreakable ties,<br>
+From struggling with homework,<br>
+to fighting to prove my worth,<br>
+YES, I AM CHANGED!<br>
+<br>
+From dreaming big,<br>
+to chasing reality,<br>
+From seeking comfort,<br>
+to embracing uncertainty.<br>
+Through every challenge, every leap, every fall,<br>
+We’ve grown, we’ve learned, we’ve given our all.<br>
+<br>
+And now, looking back, it’s crystal clear:<br>
+WE ALL HAVE CHANGED, near or far.<br>
+<br>
 — CH.Kalyani"</p>
     </div>
 
